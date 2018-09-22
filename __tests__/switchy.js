@@ -1,5 +1,5 @@
 /* global describe it expect */
-const { switchy } = require('./switchy')
+const { switchy } = require('../src/switchy')
 
 describe('switchy', () => {
   it('returns A or B for A or B', () => {

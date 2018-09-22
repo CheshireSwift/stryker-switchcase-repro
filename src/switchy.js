@@ -7,7 +7,7 @@ function switchy(input) {
       return 'C'
     default:
       return 'other'
-               }
+  }
 }
 
 module.exports = { switchy }
